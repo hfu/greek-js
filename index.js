@@ -1,6 +1,7 @@
-const α = 1
-const ฟ = 2
+const α = 20
+const ฟ = 20
+const あ = 2
 
-console.log(α + ฟ)
+console.log(α + ฟ + あ)
 
 
